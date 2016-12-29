@@ -1,0 +1,34 @@
+
+img{
+    max-width: 100%;
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+}
+span{
+    vertical-align: middle;
+}
+ul{
+    font-size: 0;
+}
+h2{
+    padding: 2rem 0;
+    font-weight: bold;
+}
+.hmeat{
+    padding: 0 0 5rem 0;
+    margin: 0;
+    text-align: center;
+}
+
+@media screen and (min-width: 1200px) {
+    html {
+        font-size: 62.5%;
+    }
+}
+@media screen and (max-width: 480px) {
+    html {
+        font-size: 40%;
+    }
+}
