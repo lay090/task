@@ -170,11 +170,11 @@
 #bottom{
     width: 100%;
     margin: 0;
-    padding: 1rem 3rem;
+    padding: 1rem 0;
     text-align: center;
 }
 #bottom1{
-    padding: 2rem 0;
+    padding: 2rem 6rem;
     background-color: white;
 }
 .link{
@@ -187,7 +187,42 @@
 }
 
 #bottom2{
-    padding: 1rem 3rem;
+    padding: 1rem 6rem;
     background-color: #29b078;
-    border-bottom: 1px solid #2aac77;
+    border-bottom: 1px solid #32c086;
+}
+.bottom2-title{
+    text-align: left;
+    vertical-align: top;
+    color: white;
+}
+#ul1{
+    padding: 6rem 0 0 0;
+    margin: 0;
+    list-style: none;
+    text-align: left;
+}
+#ul1 li{
+    float: left;
+    font-size: 1.5rem;
+    color: white;
+}
+#ul2{
+    padding: 2rem 0 0 0;
+    list-style: none;
+    text-align: left;
+}
+#ul2 li{
+    float: left;
+    padding-bottom: 1rem;
+    width: 50%;
+    font-size: 1.5rem;
+    color: white;
+}
+
+#bottom3{
+    padding: 0 6rem;
+    background-color: #29b078;
+    text-align: center;
+    color: white;
 }
